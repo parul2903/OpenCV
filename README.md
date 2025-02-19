@@ -41,11 +41,11 @@ Here’s an example of face detection in action:
 
 1. Face Detection Output
 
-![Face Detection Output](readme_images/face.jpg)
+![Face Detection Output](readme_images/face.png)
 
 2. Eye Detection Output
 
-![Eye Detection Output](readme_images/eye.jpg)
+![Eye Detection Output](readme_images/eye.png)
 
 ## Applications
 - 🔹 **Security Systems** - Face recognition in surveillance

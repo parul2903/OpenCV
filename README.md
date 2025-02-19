@@ -39,7 +39,13 @@ To use this project in Google Colab:
 ## Example Output
 Here’s an example of face detection in action:
 
-![Face Detection Output](images/face_detection_result.jpg)
+1. Face Detection Output
+
+![Face Detection Output](readme_images/face.jpg)
+
+2. Eye Detection Output
+
+![Eye Detection Output](readme_images/eye.jpg)
 
 ## Applications
 - 🔹 **Security Systems** - Face recognition in surveillance
